@@ -9,7 +9,7 @@ int main()
 	mode.height = 200;
 	mode.width = 200;
 	window = sfRenderWindow_create(mode,"",0, NULL);
-	while(sfWindow_isOpen(window));vhjghjghjghj
+	while(sfWindow_isOpen(window));
 
 	/*
 	sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
