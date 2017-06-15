@@ -149,6 +149,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Alone.c" />
+    <ClCompile Include="BinaryTree.c" />
+    <ClCompile Include="LinkedList.c" />
+    <ClCompile Include="LocalizedString.c" />
+    <ClCompile Include="Map.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinaryTree.h" />
+    <ClInclude Include="element.h" />
+    <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="LocalizedString.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="room.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
